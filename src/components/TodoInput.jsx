@@ -21,7 +21,7 @@ export function TodoInput(props) {
           setInputValue("");
         }}
       >
-        <i className="fa-solid fa-plus"></i>
+        <i className="fa-solid fa-plus" />
       </button>
     </div>
   );
