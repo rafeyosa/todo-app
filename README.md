@@ -2,7 +2,7 @@
 
 A simple and interactive To-Do App built using React. This app allows users to add, update, and delete tasks. The goal of this project is to practice React fundamentals.
 
-## Technologies
+## Learning objectives
 - React.js Basics (Components, Hooks, Props)
 - Local Storage
 - Layouting Responsive Web
