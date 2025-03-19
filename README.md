@@ -11,4 +11,4 @@ A simple and interactive To-Do App built using React. This app allows users to a
 - [FontAwesome CDN](https://cdnjs.com/libraries/font-awesome)
 - [FontAwesome Icons](https://www.fontawesome.com)
 - [FantaCSS](https://www.fantacss.smoljames.com)
-- [Vite](https://v3.vitejs.dev/guide)
+- [Vite](https://vite.dev/guide)
